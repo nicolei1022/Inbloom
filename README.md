@@ -1,2 +1,2 @@
 # Inbloom
-inbllom website for educational purposes
+inbloom website for educational purposes
